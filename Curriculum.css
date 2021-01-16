@@ -1,0 +1,33 @@
+body {
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: solid;
+    padding: 10px;
+    width: 1000px;
+}
+
+.cabecera{
+    color:white;
+    background-color: rgb(146, 164, 190);
+    padding: 0px;
+    margin: 0px;
+    font-size: 24pt;
+    padding-bottom: 0px;     
+}
+.titulo{
+    display: flex;
+    justify-content:space-around;
+    margin: 0px
+}
+.datos {
+    font-size: 15px;
+}
+
+.apartados {
+    font-size: 15pt;
+    font-weight: bold;
+    color:rgb(146, 164, 190);
+    background-color: rgb(43, 63, 177);
+
+}
